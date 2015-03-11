@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> The Hanging Scrub Game</title>
+</head>
+<body>
+<h1> Alyssia and Summer's Amazing Game </h1>
+<hr></hr>
+<p> For this project me and Summer decided to make a hangman style of game. 
+In the game there would be one player that input a word, and then passed it to 
+another player to guess the letters one at a time. When/if the second player 
+guessed incorrectly then pieces of a stick figure would pop up. When the entire 
+stick figure popped up then the game would be over and the player would lose. 
+If player two guessed correctly, then the letter that they guessed would pop up in 
+the corresponding place in the original word until they guessed the entire word.</p>
+<img scr= "project1" />
+<p> The most difficult part of this project would have to be getting the word that
+player one inputted to transfer to the screen where player two could guess the letters.
+In order to solve this we had to implement a <i>Tiny DB</i> storage device that
+could store the variable on a truly global scale. Other difficulties were able to 
+be fixed with for loops and variables. Overall it was an exciting and educational
+expirence that I very much enjoyed.
+
+<p> Check out my game <a href = "www.loser.com">here</a>
+</body>
+</html>
